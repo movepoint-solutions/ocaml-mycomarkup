@@ -1,0 +1,4 @@
+(executable
+ (public_name mycomarkup)
+ (name main)
+ (libraries mycomarkup))
